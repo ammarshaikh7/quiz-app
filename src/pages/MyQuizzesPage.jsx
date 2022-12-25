@@ -1,11 +1,11 @@
 import React from "react";
 import { Navbar } from "../components/Navbar";
 
-export const HomePage = () => {
+export const MyQuizzesPage = () => {
   return (
     <div>
       <Navbar />
-      home
+      MyQuizzesPage
     </div>
   );
 };
